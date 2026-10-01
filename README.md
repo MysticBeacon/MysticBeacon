@@ -119,9 +119,11 @@ Local CLI chatbot using Hugging Face with context-aware memory, GPU/CPU-optimize
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MysticBeacon&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<div align="center">
 
-<br/>
+<img src="https://ghchart.rshah.org/7dd3fc/MysticBeacon" alt="MysticBeacon's contribution chart" width="100%"/>
+
+</div>
 
 ## 🤝 Connect With Me
 
