@@ -107,15 +107,16 @@ Local CLI chatbot using Hugging Face with context-aware memory, GPU/CPU-optimize
 
 <br/>
 
-## 🏆 Trophies
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MysticBeacon&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
+<img src="https://img.shields.io/badge/IIT%20Patna-CS-7dd3fc?style=for-the-badge" alt="IIT Patna"/>
+<img src="https://img.shields.io/badge/Codebasics-Python%20Certified-7dd3fc?style=for-the-badge" alt="Python certification"/>
+<img src="https://img.shields.io/badge/Codebasics-SQL%20Certified-7dd3fc?style=for-the-badge" alt="SQL certification"/>
+<img src="https://img.shields.io/badge/Projects-2%20Launched-7dd3fc?style=for-the-badge" alt="Projects launched"/>
 
 </div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
